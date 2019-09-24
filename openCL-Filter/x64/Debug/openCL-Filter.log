@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  openCL-Filter.cpp
+c:\users\federico\desktop\entrevista\new folder\corvalius-filter\opencl-filter\opencl-filter.cpp(80): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\federico\desktop\entrevista\new folder\corvalius-filter\opencl-filter\opencl-filter.cpp(84): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\users\federico\desktop\entrevista\new folder\corvalius-filter\opencl-filter\opencl-filter.cpp(106): warning C4838: conversion from 'int' to 'const size_t' requires a narrowing conversion
+c:\users\federico\desktop\entrevista\new folder\corvalius-filter\opencl-filter\opencl-filter.cpp(111): warning C4838: conversion from 'int' to 'const size_t' requires a narrowing conversion
+     Creating library ..\corvalius-filter\bin\Debug\openCL-Filter.lib and object ..\corvalius-filter\bin\Debug\openCL-Filter.exp
+  openCL-Filter.vcxproj -> C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\openCL-Filter\..\corvalius-filter\bin\Debug\openCL-Filter.dll

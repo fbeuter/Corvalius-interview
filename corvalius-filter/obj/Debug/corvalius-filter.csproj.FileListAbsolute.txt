@@ -1,0 +1,7 @@
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\bin\Debug\corvalius-filter.exe.config
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\bin\Debug\corvalius-filter.exe
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\bin\Debug\corvalius-filter.pdb
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\obj\Debug\corvalius-filter.csprojAssemblyReference.cache
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\obj\Debug\corvalius-filter.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\obj\Debug\corvalius-filter.exe
+C:\Users\Federico\Desktop\Entrevista\New folder\corvalius-filter\corvalius-filter\obj\Debug\corvalius-filter.pdb
